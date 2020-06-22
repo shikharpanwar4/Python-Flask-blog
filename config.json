@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_rui": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com",
+    "blog_name": "Coding Thunder",
+    "tag_line": "A Heaven for Programmers",
+    "gmail-user": "gmailid@gmail.com",
+    "gmail-password": "pass",
+    "about_text": "Hi! My name is Shikhar Panwar. I am a 2nd year B.E. student and I love programming",
+    "no_of_posts": 3,
+    "login_img": "logo.jpg",
+    "admin_user": "shikhar",
+    "admin_password": "flask",
+    "upload_location": "C:\\Users\\Shikhar Panwar\\PycharmProjects\\Flask-tut2\\static\\img"
+  }
+}
